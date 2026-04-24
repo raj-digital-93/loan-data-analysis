@@ -26,6 +26,7 @@ Total collections exceed disbursed loan amount, indicating strong revenue genera
 Loan disbursement peaked during 2017–2018 and declined in 2019, potentially due to tighter credit policies or early signs of economic slowdown rather than COVID-related impact.
 
 🔹 Risk Metrics
+
 Default Loans: 1K (1.56%)
 
 Delinquent Loans: 7K (10.84%)
@@ -47,36 +48,50 @@ Age Group 26–35 contributes the highest loan amount followed by 36-45
 Top Loan Purposes:
 
 Home Loan
+
 Services
+
 Business
 
 🔹 Loan Characteristics
 
 Term Distribution:
+
 60 months → 59%
+
 36 months → 41%
 
 
 💡 **Key Recommendations**
 
 1. Improve Data Quality
+   
 Make Grade, Loan status, verification status & State mandatory fields
+
 Implement validation checks in data entry systems
 
-3. Strengthen Risk Monitoring
+2. Strengthen Risk Monitoring
+   
 Build early warning systems for delinquency
+
 Monitor high-risk segments closely
+
 Make full verification mandatory for High loan amounts & Risky segments
+
 To reduce delinquency, implement early warning systems, strengthening automated payment mechanisms, and applying targeted interventions for high-risk segments. Additionally, improving customer engagement through reminders and incentives can significantly enhance repayment behavior.
 
-5. Target High-Value Segments
+3. Target High-Value Segments
+   
 Focus marketing on 26–35 age group
+
 Customize loan offerings based on purpose
 
-7. Optimize Loan Tenure
+4. Optimize Loan Tenure
+   
 Encourage shorter tenure loans to reduce risk exposure
 
-9. Simplify Verification Process
+5. Simplify Verification Process
+   
 Re-evaluate verification steps to balance risk and user experience
 
 📊 **Dashboard Features**
@@ -94,7 +109,9 @@ Re-evaluate verification steps to balance risk and user experience
 🛠️ **Tools & Technologies**
 
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
 
 🚀 **Project Outcomes**
