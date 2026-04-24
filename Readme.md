@@ -63,9 +63,13 @@ Re-evaluate verification steps to balance risk and user experience
 
 📊 **Dashboard Features**
 📈 Loan distribution by Grade, State, Age
+
 ⚠️ Risk Analysis (Default vs Delinquent)
+
 🧩 Data Quality Indicators (Missing Grade/State)
+
 🔄 Interactive Bookmark Navigator for risk views
+
 🎯 KPI Cards for quick insights
 
 🛠️ **Tools & Technologies**
@@ -75,8 +79,11 @@ Data Modeling
 
 🚀 **Project Outcomes**
 Identified data gaps affecting analysis accuracy
+
 Highlighted moderate delinquency risk
+
 Discovered high-performing customer segments
+
 Provided actionable strategies for business growth
 
 **Power BI files and SQL files attached**
